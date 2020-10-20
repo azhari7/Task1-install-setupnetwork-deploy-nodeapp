@@ -39,3 +39,4 @@ Deploy Frontend dumbplay
 - masuk ke direktori dumbplay/frontend
 - install package dengan perintah "npm install"
 - deploy frontend dengan perintah "npm start"
+- Cek apakah frontend sudah terdeploy dengan -> Buka browser -> IPSERVER:3000
