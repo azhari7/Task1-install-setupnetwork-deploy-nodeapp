@@ -1,4 +1,6 @@
 # Task1-install-setupnetwork-deploy-nodeapp
+Screenshoot ada pada Folder Screenshoot
+
 
 Install Ubuntu 18.04 pada VMware
 - Membuat virtual machine baru pada New virtual machine wizard
@@ -17,6 +19,11 @@ Install Nginx pada Ubuntu 18.04
 
 
 Setup network(ip statis) pada Ubuntu 18.04 VMware
+
+- setup NAT to brige pada vmware
+- Pilih VM -> Edit Virtual machine setting
+- pada network adapter -> pilih bridge
+
 Cara pertama :
 - Konfig network pada saat section installasi
 - Pilih interface -> enter
