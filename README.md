@@ -6,7 +6,7 @@ Install Ubuntu 18.04 pada VMware
 - Membuat virtual machine baru pada New virtual machine wizard
 - Pilih installer disk image dan arahkan pada direktori iso berada
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/01create%20virtual%20machine.jpg)
-- Isi personalize dan password
+- Isi personalize dan password Linux 
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/02-create%20virtual%20machine1.jpg)
 - Tentukan space disk yang akan dipakai untuk instalasi
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/03-create%20virtual%20machine2%20-%20create%20capacity.jpg)
@@ -57,9 +57,9 @@ Deploy Frontend dumbplay
 - install node js 
 - penambahan repo node js
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Deploy%20Frontend%20Dumbplay/01-penambahan%20repo%20node%20js%20v12.jpg)
-- apt-get install -y nodejs
+- install nodejs dengan command "apt-get install -y nodejs"
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Deploy%20Frontend%20Dumbplay/02-install%20node%20js.jpg)
-- Git clone repo dumbplay
+- Clone repository frontend dumbplay pada git  
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Deploy%20Frontend%20Dumbplay/03-clone%20app.jpg)
 - masuk ke direktori dumbplay/frontend
 - install package dengan perintah "npm install"
