@@ -7,6 +7,7 @@ Install Ubuntu 18.04 pada VMware
 - Pilih installer disk image dan arahkan pada direktori iso berada
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/01create%20virtual%20machine.jpg)
 - Isi personalize dan password Linux 
+
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/02-create%20virtual%20machine1.jpg)
 - Tentukan space disk yang akan dipakai untuk instalasi
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Create%20VM/03-create%20virtual%20machine2%20-%20create%20capacity.jpg)
@@ -25,6 +26,7 @@ Install Ubuntu 18.04 pada VMware
 
 Install Nginx pada Ubuntu 18.04
 - apt install nginx
+
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Install%20Ubuntu%2018.04/05-install%20nginx.jpg)
 - testing nginx pada browser
 ![alt text](https://github.com/azhari7/Task1-install-setupnetwork-deploy-nodeapp/blob/main/Screenshoot/Install%20Ubuntu%2018.04/06-nginx%20success.jpg)
